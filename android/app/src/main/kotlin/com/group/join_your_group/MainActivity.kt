@@ -1,4 +1,4 @@
-package com.example.join_your_group
+package com.group.join_your_group
 
 import io.flutter.embedding.android.FlutterActivity
 
